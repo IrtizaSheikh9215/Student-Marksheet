@@ -1,0 +1,50 @@
+body {
+    font-family:cursive;
+    font-weight: bold;
+    background: rgb(211, 211, 211);
+    padding: 20px;
+}
+
+.h1 {
+    text-align: center;
+    font-family:cursive;
+}
+
+.container{
+    background: rgb(255, 255, 255);
+    max-width: 450px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px black;
+}
+
+input{
+    display: block;
+    width: 95%;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+button {
+    font-family: cursive;
+    width: 100%;
+    padding: 10px;
+    background: aqua;
+    color: black;
+    border: none;
+    box-shadow: 0 0 10px black;
+    font-size:20px;
+    font-weight: bold;
+}
+
+button:hover {
+    background:rgb(211, 211, 211);
+}
+
+.result {
+    margin-top: 11px;
+    background: rgb(211, 211, 211);
+    padding: 10px;
+    border-radius: 15px;
+}
